@@ -1,4 +1,4 @@
-#  Inject Imclass Mode V2ray
+#  Inject Imclass & Edukasi Mode V2ray
 
 # Support Computer & Laptop
 
